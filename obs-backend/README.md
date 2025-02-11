@@ -15,7 +15,7 @@ This project provides a backend service that connects to OBS (Open Broadcaster S
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/obs-control-backend.git
+git clone https://github.com/xdeaZeineb/OBS-control.git
 cd obs-control-backend
 ```
 
