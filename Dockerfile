@@ -20,7 +20,7 @@ RUN npm install
 COPY obs-backend/ ./
 
 # Copy the built frontend from the previous stage
-COPY --from=frontend-build /app/obs-control/public /app/obs-backend/public
+COPY --from=frontend-build /app/frontend/public /app/backend/public
 
 EXPOSE 8080
 
