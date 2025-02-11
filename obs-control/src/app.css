@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Khand:wght@300;400;500;600;700&display=distressed');
+@import 'tailwindcss';
+
+body {
+	font-family: 'Khand', serif;
+	color: #c5ccd4;
+}
